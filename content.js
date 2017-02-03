@@ -20,5 +20,5 @@ window.setInterval(function(){
 
 
 function beans() {
-	$("img").attr("src", "http://1.bp.blogspot.com/-JseBoTAGkLw/UxXKKh1F_cI/AAAAAAAAAbw/i86k8iPdVOo/s1600/mrbean.png");
+	$("img").attr("src", "https://github.com/bjubes/beans/blob/master/bean.png");
 }
